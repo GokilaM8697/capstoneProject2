@@ -16,7 +16,8 @@ body{
     height: 100%;
     background-color: whitesmoke;
     overflow-x: auto;
-    padding-top: 20px
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .grid-items{
     display: flex;
